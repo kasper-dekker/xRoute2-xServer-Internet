@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="contextMenuStripWaypoints.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>770, 7</value>
+  </metadata>
+  <assembly alias="WindowsBase" name="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+  <data name="dynMap.Center" type="System.Windows.Point, WindowsBase">
+    <value>0,-2.85131757576515E-15</value>
+  </data>
+  <metadata name="toolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>603, 17</value>
+  </metadata>
+  <data name="tbxDeliveryOnlyGateCost.ToolTip" xml:space="preserve">
+    <value>Type 	                                Required  Default  Since  Description
+MathematicalCost (Integer)      no        50000      2.0    The routing cost for gates 
+that have are allowed to pass because LegalCondition.isDelivery is enabled. 
+In contrast to a prohibited segment a gate is located at a specific point 
+of the road network and passing through that point is prohibited by the gate.</value>
+  </data>
+  <data name="tbxDeliveryOnlyPenalty.ToolTip" xml:space="preserve">
+    <value>Type 	         Required 	Default 	Since 	Description
+Penalty (Integer) 	no 	   2500 	  2.0 	The penalty for delivery only segments
+that are allowed because LegalCondition.isDelivery is enabled. 
+This setting affects segments which have set RoadAttributes.deliveryOnly.</value>
+  </data>
+  <data name="tbxForbiddenLEZPenal.ToolTip" xml:space="preserve">
+    <value>Type 	              Required   Default 	  Since 	Description
+Penalty (Integer) 	    no 	   2500 	     2.0 	The penalty for segments that are forbidden for the current 
+Engine.lowEmissionZoneTypes of the vehicle. This setting affects segments which do not match
+ RoadAttributes.lowEmissionZoneType. </value>
+  </data>
+  <data name="tbxUrbanPenalty.ToolTip" xml:space="preserve">
+    <value>Type 	            Required 	Default 	Since 	Description
+Penalty (Integer) 	  no                 0 	  2.0 	The penalty for urban segments. 
+A segment is treated as "urban" if the corresponding segment attribute is set and 
+the network class is larger than or equal to minimumUrbanNetworkClass. 
+This setting affects segments which have set RoadAttributes.urban. </value>
+  </data>
+  <data name="tbxResidentsOnlyPenalty.ToolTip" xml:space="preserve">
+    <value>Type 	            Required 	Default 	  Since 	Description
+Penalty (Integer) 	no       	   2500 	    2.0 	The penalty for each segment 
+within a residents only area. This setting affects segments which have set 
+RoadAttributes.residentsOnly. </value>
+  </data>
+  <data name="tbxDistanceTimeWeighting.ToolTip" xml:space="preserve">
+    <value>The weight factor for route travel time. 
+The distance enters the basic cost term with a weight of 100 - distanceTimeWeighting. 
+Hence, with a value of 100, only travel time is optimized, 
+while with a value of 0 only the distance of the route is optimized. </value>
+  </data>
+  <metadata name="timerLocate.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>487, 17</value>
+  </metadata>
+  <metadata name="toolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>603, 17</value>
+  </metadata>
+  <data name="cbxCoordFormat.ToolTip" xml:space="preserve">
+    <value>EPSG:4326 Longitude/latitude coordinates in decimal degrees [°] (WGS84). Example: X = 8.2505556, Y = 48.7627778.
+EPSG:3857 Google Web Mercator, Spherical Mercator, (WGS 84 / Pseudo-Mercator). Example: X = 918447.648154, Y= 6234705.18923.
+EPSG:76131 PTV representation of coordinates according to the Mercator projection. Example: X = 917420, Y = 6227729.
+</value>
+  </data>
+  <data name="tbxAllowedCountries.ToolTip" xml:space="preserve">
+    <value>Specifies a list of country codes that are allowed for a routing.
+Without any country code defined in this parameter, 
+The list of allowed countries is set by default to the allowed countries in the used map.
+ISO 3166-1 alpha-2</value>
+  </data>
+  <metadata name="segmentBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>226, 17</value>
+  </metadata>
+  <metadata name="segmentBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>226, 17</value>
+  </metadata>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1146, 17</value>
+  </metadata>
+  <metadata name="emissionValuesHBEFA32BindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="loadBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 56</value>
+  </metadata>
+  <metadata name="loadBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>171, 56</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>49</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAAAAABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AACKiIf/ioiH/4qIh6////8A////AIqIh/+KiIf/ioiHQIqIh/+KiIf/ioiHr////wD///8AioiH/4qI
+        h/+KiIdAioiH/4qIh/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh0CKiIf/ioiH/4qIh/+KiIf/ioiH/4qI
+        h/+KiIf/ioiHQIqIh6+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIefioiHr4qIh/+KiIf/ioiH/4qI
+        h/+KiIf/ioiH/4qIh5////8AioiH/4qIh/+KiIf/ioiH/4qIh/+KiIf/ioiH/////wCKiIf/ioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/////AIqIh/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/////8AioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIdAioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh0CKiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIf/ioiHQIqI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIdAioiHQIqIh0CKiIe/ioiH/4qIh/+KiIdAioiHQP//
+        /wCKiIdAioiHQIqIh8+KiIf/ioiH/4qIh0CKiIdA////AIqIh/+KiIf/ioiHr////wD///8AioiH/4qI
+        h/+KiIdAOCDk/zgg5P84IOSv////AP///wA4IOT/OCDk/zgg5ECKiIf/ioiH/4qIh/+KiIf/ioiH/4qI
+        h/+KiIf/ioiHQDgg5P84IOT/OCDk/zgg5P84IOT/OCDk/zgg5P84IORAioiHr4qIh/+KiIf/ioiH/4qI
+        h/+KiIf/ioiH/4qIh784IOSvOCDk/zgg5P84IOT/OCDk/zgg5P84IOT/OCDkv////wCKiIf/ioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/////ADgg5P84IOT/OCDk/zgg5P84IOT/OCDk/zgg5P////8AioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/////wA4IOT/OCDk/zgg5P84IOT/OCDk/zgg5P84IOT/ioiH/4qI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh0A4IOT/OCDk/zgg5P84IOT/OCDk/zgg5P84IOT/OCDkQIqI
+        h/+KiIf/ioiH/4qIh/+KiIf/ioiH/4qIh/+KiIdAOCDk/zgg5P84IOT/OCDk/zgg5P84IOT/OCDk/zgg
+        5ECKiIdAioiHQIqIh7+KiIf/ioiH/4qIh0CKiIdA////ADgg5EA4IORAOCDkzzgg5P84IOT/OCDkQDgg
+        5ED///8AGRkAAAEBAAAAAAAAgIAAAICAAAABAQAAAQEAAMfHAAAZGQAAAQEAAAAAAACAgAAAgIAAAAEB
+        AAABAQAAx8cAAA==
+</value>
+  </data>
+</root>

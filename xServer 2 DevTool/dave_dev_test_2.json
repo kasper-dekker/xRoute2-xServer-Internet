@@ -1,0 +1,79 @@
+{
+	"stops": [		
+		{
+			"coordinate": {
+				"locationX": 3.79467,
+				"locationY": 51.19623
+			},
+			"earliestArrivalTime": "2019-03-05T00:00:01.0000000+00:00",
+			"latestDepartureTime": "2019-03-05T23:59:59.0000000+00:00",
+			"serviceTimeAtStop": 600,
+			"useServicePeriodForRecreation": false,
+			"weightWhenLeavingStop": 0,
+			"stopPositionInTour": 0,
+			"scemid": "LLJKVGXO6I",
+			"source": "TAS"
+		},
+		{
+			"coordinate": {
+				"locationX": 4.04872,
+				"locationY": 51.19927
+			},
+			"earliestArrivalTime": "2019-03-05T00:00:01.0000000+00:00",
+			"latestDepartureTime": "2019-03-05T23:59:59.0000000+00:00",
+			"serviceTimeAtStop": 600,
+			"useServicePeriodForRecreation": false,
+			"weightWhenLeavingStop": 0,
+			"stopPositionInTour": 0,
+			"scemid": "OFFAHRUVBV",
+			"source": "TAS"
+		},
+		{
+			"coordinate": {
+				"locationX": 3.79467,
+				"locationY": 51.19623
+			},
+			"earliestArrivalTime": "2019-03-05T00:00:01.0000000+00:00",
+			"latestDepartureTime": "2019-03-05T23:59:59.0000000+00:00",
+			"serviceTimeAtStop": 600,
+			"useServicePeriodForRecreation": false,
+			"weightWhenLeavingStop": 0,
+			"stopPositionInTour": 0,
+			"scemid": "LLJKVGXO6J",
+			"source": "TAS"
+		},
+		{
+			"coordinate": {
+				"locationX": 4.23254,
+				"locationY": 51.20163
+			},
+			"earliestArrivalTime": "2019-03-05T00:00:01.0000000+00:00",
+			"latestDepartureTime": "2019-03-05T23:59:59.0000000+00:00",
+			"serviceTimeAtStop": 600,
+			"useServicePeriodForRecreation": false,
+			"weightWhenLeavingStop": 0,
+			"stopPositionInTour": 0,
+			"scemid": "68QEWBTESV",
+			"source": "TAS"
+		},
+		{
+			"coordinate": {
+				"locationX": 4.25164,
+				"locationY": 51.21615
+			},
+			"earliestArrivalTime": "2019-03-05T00:00:01.0000000+00:00",
+			"latestDepartureTime": "2019-03-05T23:59:59.0000000+00:00",
+			"serviceTimeAtStop": 600,
+			"useServicePeriodForRecreation": false,
+			"weightWhenLeavingStop": 0,
+			"stopPositionInTour": 0,
+			"scemid": "9EZTLFMBII",
+			"source": "TAS"
+		}
+	],
+	"vehicle": {
+		"vehicleProfileID": "mg-truck-11.99t"
+	},
+	"scemid": "8ZKZCCAVQB",
+	"source": "TAS"
+}
